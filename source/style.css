@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap");
+body {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+hr {
+  color: white;
+}
+
+.autist {
+  background-color: #f3f3f3;
+}
+
+.haa {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.image {
+  width: 100%;
+}
+
+.sale {
+  border-radius: 25px;
+  background-color: #bd584e;
+  padding: 10px 20px;
+}
+
+.red {
+  color: #bd584e;
+}
+
+.img1 {
+  background-image: url(../images/services/service-1.jpg);
+  height: 185px;
+  background-size: cover;
+  background-position: center;
+}
+
+.img2 {
+  background-image: url(../images/services/service-2.jpg);
+  height: 185px;
+  background-size: cover;
+  background-position: center;
+}
+
+.img3 {
+  background-image: url(../images/services/slider-3.jpg);
+  height: 185px;
+  background-size: cover;
+  background-position: center;
+}
+
+.night {
+  font-weight: bold;
+}
+
+.ok1 {
+  width: 100%;
+}
+
+.ok2 {
+  width: 100%;
+}
+
+.ok3 {
+  width: 100%;
+}
+
+.aushwitz {
+  font-weight: bold;
+}
+
+p {
+  color: gray;
+}
+
+/*# sourceMappingURL=style.css.map */
